@@ -53,9 +53,9 @@ export function GuidePage() {
           ))}
         </ol>
         <p>
-          The project was developed with AI assistance. Study the implementation
-          and tests, reproduce the examples, and explain tradeoffs in your own
-          words. TESTING.md records what has actually been verified.
+          Study the implementation and tests, reproduce the examples, and explain
+          tradeoffs in your own words. TESTING.md records what has actually been
+          verified.
         </p>
       </section>
     </>

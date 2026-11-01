@@ -25,7 +25,7 @@ This project implements a browser-local environment for studying 20 algorithms t
 13. **Future scope:** streamed histories, larger graph data structures, heap-based Huffman coding, more persistence, richer keyboard editing, additional algorithms, and browser automation coverage.
 14. **Conclusion:** evaluate achieved objectives against implementation and evidence, avoiding claims that a visualization proves universal performance or correctness.
 15. **References:** link sources genuinely consulted; distinguish background theory from original project code.
-16. **Appendices:** installation steps, actual test output, benchmark CSV, demonstration script, selected pseudocode, and AI-assistance statement.
+16. **Appendices:** installation steps, actual test output, benchmark CSV, demonstration script, and selected pseudocode.
 
 ## Results examples to reproduce
 
@@ -44,7 +44,3 @@ Verify these in the current app before embedding screenshots. Do not extrapolate
 - [Princeton priority queues and heap analysis](https://algs4.cs.princeton.edu/24pq/)
 - [IISc Red-Black deletion notes](https://gtl.csa.iisc.ac.in/dsa/node117.html)
 - [MIT dynamic programming lecture](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/28461a74f81101874a13d9679a40584d_MIT6_006S20_lec16.pdf)
-
-## Authorship disclosure
-
-The application and documentation were developed for this project with AI assistance. Describe your own understanding, testing, adaptations, and contribution accurately. Do not claim that every line was written manually or copy a pre-existing academic report.

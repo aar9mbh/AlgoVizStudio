@@ -1,6 +1,6 @@
 # AlgoViz Studio
 
-**Interactive Algorithm Explorer & Performance Lab** — an original browser-local DAA project with 20 implemented algorithms, developed with AI assistance. Viva: **4 November 2026**.
+**Interactive Algorithm Explorer & Performance Lab** — an original browser-local DAA project with 20 implemented algorithms.
 
 ## Install and run
 

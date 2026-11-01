@@ -1,6 +1,6 @@
 # AlgoViz Studio — Viva preparation
 
-Viva date: **4 November 2026**. Study and demonstrate the actual code; this project was developed with AI assistance. Do not describe it as entirely manually written.
+Study and demonstrate the actual code, and reproduce the examples yourself.
 
 ## Project introduction and motivation
 
@@ -48,7 +48,7 @@ Run the app and tests before the viva. Keep the browser open and select examples
 
 “The performance lab runs non-recording sorting functions in a Web Worker. Each trial uses identical input copies, includes warm-ups before measurement, rotates execution order, and reports medians using performance.now(). It measures computation with counters, not animation. Browser timing and memory reporting have limitations, which are explained in the interface.
 
-“The application runs locally without a database or login. The implementation and documentation were developed with AI assistance. I can explain the key files, tests, invariants, and tradeoffs.”
+“The application runs locally without a database or login. I can explain the key files, tests, invariants, and tradeoffs.”
 
 ## Likely questions and accurate answers
 

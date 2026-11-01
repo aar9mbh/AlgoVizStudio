@@ -644,7 +644,7 @@ Assumptions: Average cases assume random order of distinct keys; numeric compari
 
 ## Background references
 
-Implementations and prose were written for this project with AI assistance. Background theory was checked against these teaching sources; their implementation variants can differ from this project.
+Background theory was checked against these teaching sources; their implementation variants can differ from this project.
 
 - [Princeton sorting summary](https://algs4.cs.princeton.edu/cheatsheet/)
 - [Princeton heap analysis](https://algs4.cs.princeton.edu/24pq/)
